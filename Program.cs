@@ -106,19 +106,19 @@ do
     {
         case 1:
             multiplication();// Appelle la méthode multiplication
-            break; // Quitte le bloc switch après avoir exécuté l'opératio
+            break; // Quitte le bloc switch après avoir exécuté l'opération
 
         case 2:
             addition(); // Appelle la méthode addition
-            break; // Quitte le bloc switch après avoir exécuté l'opératio
+            break; // Quitte le bloc switch après avoir exécuté l'opération
 
         case 3:
             soustraction(); // Appelle la méthode soustraction
-            break; // Quitte le bloc switch après avoir exécuté l'opératio
+            break; // Quitte le bloc switch après avoir exécuté l'opération
 
         case 4:
             division(); // Appelle la méthode division
-            break; // Quitte le bloc switch après avoir exécuté l'opératio
+            break; // Quitte le bloc switch après avoir exécuté l'opération
 
         default:
             Console.ForegroundColor = ConsoleColor.Red;// On initialise la couleur de la police a la couleur rouge
